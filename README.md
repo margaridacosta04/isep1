@@ -3,6 +3,7 @@ Trabalho de introdução a informática
 Implementar um programa que permita fazer a gestão das notas dos alunos do Ano Zero à disciplina de Introdução à Informática. Pretende-se armazenar, para cada um dos alunos, a Turma, o Número, o Nome e as respetivas notas intermédias: Nota de Algoritmia, Nota de JAVA e Nota de VB.
 Nota: o cálculo da Nota Final é feito da seguinte forma: 30% da Nota de Algoritmia + 40% da Nota de JAVA + 30% da Nota de VB.
 Com este intuito, implemente as seguintes funcionalidades:
+
 • ler – carrega para memória central as turmas, os números dos alunos, os nomes e respetivas
 notas de Algoritmia, JAVA e VB. A informação tem como origem um ficheiro de texto;
 • ver - visualiza a informação no seguinte formato: (tabela)
